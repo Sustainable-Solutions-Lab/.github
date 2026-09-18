@@ -25,6 +25,7 @@ grows with the papers.
 | [burke-replication-python](https://github.com/Sustainable-Solutions-Lab/burke-replication-python) | Python replication of Burke, Hsiang & Miguel (2015) |
 | [global-bulk-transport](https://github.com/Sustainable-Solutions-Lab/global-bulk-transport) | Global bulk transportation cost model |
 | [global-lorenz](https://github.com/Sustainable-Solutions-Lab/global-lorenz) | Global Lorenz curves fitted to World Bank data |
+| [multiregional-acct](https://github.com/Sustainable-Solutions-Lab/multiregional-acct) | Single- vs multi-regional EEIO models for corporate emissions accounting |
 
 Tagged releases of these repositories are archived with DOIs in the
 lab's [Zenodo community](https://zenodo.org/communities/sustainable-solutions-lab/).
