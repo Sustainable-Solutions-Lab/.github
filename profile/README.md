@@ -1,10 +1,9 @@
 # Sustainable Solutions Lab
 
-We are [Steve Davis](https://sustainablesolutions.stanford.edu/people/steve-davis)'s
-research group in the Doerr School of Sustainability at Stanford
-University. The lab studies the unavoidable environmental tradeoffs of
+We are a research group in the Doerr School of Sustainability at Stanford
+University that studies the unavoidable environmental tradeoffs of
 energy, food, and material security — and the most viable paths to a
-sustainable future.
+sustainable future. Directed by [Steve Davis](https://sustainablesolutions.stanford.edu/people/steve-davis)
 
 **Website:** [sustainablesolutions.stanford.edu](https://sustainablesolutions.stanford.edu) ·
 **Data archive:** [Zenodo community](https://zenodo.org/communities/sustainable-solutions-lab/) ·
