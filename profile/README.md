@@ -19,6 +19,7 @@ grows with the papers.
 | Repository | What it is |
 |---|---|
 | [GLADE](https://github.com/Sustainable-Solutions-Lab/GLADE) | Global food-systems optimization model balancing environmental and nutritional objectives |
+| [FoodWithoutAg](https://github.com/Sustainable-Solutions-Lab/FoodWithoutAg) | Code and input data for "Food without agriculture" (Davis et al. 2023, Nature Sustainability) |
 | [coin-equality](https://github.com/Sustainable-Solutions-Lab/coin-equality) | Model code and data for work on income inequality and climate change |
 | [mealhealth](https://github.com/Sustainable-Solutions-Lab/mealhealth) | Health impact of a meal in years of life lost or gained |
 | [burke-replication-python](https://github.com/Sustainable-Solutions-Lab/burke-replication-python) | Python replication of Burke, Hsiang & Miguel (2015) |
